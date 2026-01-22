@@ -31,4 +31,7 @@ This project is an interactive implementation of the classic Rock-Paper-Scissors
 * **Reset Confirmation:** A UI safety check that asks for confirmation before clearing the score history.
  
 <br>
-<img width="503" height="641" alt="Screenshot 2026-01-23 003657" src="https://github.com/user-attachments/assets/c7130ba9-efaf-48d7-b636-582954398dc9" />
+<img width="1913" height="643" alt="Screenshot 2026-01-23 011320" src="https://github.com/user-attachments/assets/97248297-56d0-4095-90c5-81e3938c16d1" />
+
+
+
